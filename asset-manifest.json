@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/fe-vm/static/js/main.ae2aceee.js",
+    "main.js": "/fe-vm/static/js/main.be48f180.js",
     "static/media/BMDoHyeon.woff": "/fe-vm/static/media/BMDoHyeon.5fae53c04124cd8131bc.woff",
     "index.html": "/fe-vm/index.html",
-    "main.ae2aceee.js.map": "/fe-vm/static/js/main.ae2aceee.js.map"
+    "main.be48f180.js.map": "/fe-vm/static/js/main.be48f180.js.map"
   },
   "entrypoints": [
-    "static/js/main.ae2aceee.js"
+    "static/js/main.be48f180.js"
   ]
 }
